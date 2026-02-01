@@ -2,7 +2,7 @@
 Celebrate someone’s birthday in a unique and heart-touching way with this new version of the "Birthday Surprise" website. This version includes beautiful animations, confetti, a photo slideshow, and a special countdown – all crafted to create an unforgettable moment. 💖
 
 ## Link
-- Link to live site [here](https://aboutpriyanka.netlify.app/)
+- Link to live site [here](https://impriyankasharma.netlify.app/)
 
 Have fun!!!
 
